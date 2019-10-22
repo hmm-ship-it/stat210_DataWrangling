@@ -115,7 +115,7 @@ read_fwf() fixed width files
 read_log() reads APACHE LOGS! webreadr might be useful
 
 ```{r}
-heights <- read_csv("data/heights.csv")
+#heights <- read_csv("data/heights.csv")
 
 ```
 
